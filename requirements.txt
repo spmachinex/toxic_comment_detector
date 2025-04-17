@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+tensorflow  # or pytorch, depending on your model choice
+transformers  # if using transformer models
+nltk  # for text preprocessing
+matplotlib  # for visualization
+seaborn  # for visualization
+fastapi~=0.115.12
+pydantic~=2.11.3
+uvicorn
